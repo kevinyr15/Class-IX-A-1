@@ -29,7 +29,7 @@
         .slider-wrapper {
           overflow: hidden;
           max-width: 1200px;
-          margin: 0 70px 55px;
+          margin: 0 10px 5px;
         }
 
         .card-list .card-item {
